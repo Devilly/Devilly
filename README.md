@@ -5,4 +5,5 @@ Some facts about me, Devilly:
 
 And some more personal:
 * 🎼 Coding with music on.
-* Loving some sports: 🏃‍♂️ 🏌️‍♂️ 🏊‍♂️ 🚴‍♂️.
+* 🏃‍♂️ 🏌️‍♂️ 🏊‍♂️ 🚴‍♂️ Loving some sports.
+* 📖 Having a [resume](https://devilly.github.io/) online.
