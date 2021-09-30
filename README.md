@@ -1,5 +1,3 @@
 Some facts about me, Devilly:
-* 📘 Learning C#...
-* 📚 together with Blazor...
-* 🔖 creating a blog, [Codeventures](https://codeventures.dev).
-* 📖 Having a [resume](https://devilly.github.io/) online.
+* 🔖 I have a blog, [Codeventures](https://codeventures.dev).
+* 📖 My [resume](https://devilly.github.io/) can be found online.
