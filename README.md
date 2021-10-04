@@ -1,3 +1,2 @@
-Some facts about me, Devilly:
-* 🔖 I have a blog, [Codeventures](https://codeventures.dev).
+One fact about me, Devilly:
 * 📖 My [resume](https://devilly.github.io/) can be found online.
